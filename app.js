@@ -61,7 +61,7 @@ app.get('/', (req, res) => {
         <h1>🚀 Jenkins CI/CD</h1>
         <p>Hello from Jenkins!</p>
         <p>This is the <strong>third version</strong> of the Node.js application.</p>
-        <div class="version">Deployment Successful ✅</div>
+        <div class="version">Deployment Successful done done ok ✅</div>
         <div class="footer">
           GitHub Webhook → Jenkins → Node.js
         </div>
